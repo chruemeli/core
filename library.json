@@ -1,0 +1,20 @@
+{
+    "name": "Chruemeli",
+    "keywords": ["ESP8266", "IOT"],
+    "version": "0.1.0",
+    "dependencies": [
+        {
+            "owner": "bblanchon",
+            "name": "ArduinoJson",
+            "version": "^6.17.2"
+        },
+        {
+            "name": "CRC32",
+            "version": "https://github.com/bakercp/CRC32.git#master"
+        },
+        {
+            "name": "LinkedList",
+            "version": "^1.2.3"
+        }
+    ]
+}
